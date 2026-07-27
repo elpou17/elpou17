@@ -1,14 +1,10 @@
+<h1 data-importer="text" align="center"><b>Hello,👋 I'm Miguel Pou Garcia</b></h1>
+
+###
+
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Miguel+Pou;QA+Practice+Lead;Quality+Engineering+%7C+Automation;Cybersecurity+Enthusiast;Software+Architect;Founder+of+SUDOTICrd;Always+Learning+%F0%9F%9A%80" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000428,100:004e92&text=Welcome%20to%20my%20GitHub&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=2E9BF7&center=true&vCenter=true&random=false&width=1000&height=150&lines=Software+Quality+and+Cibersecurity+Engineer;API+Testing+%7C+Web+Automation+%7C+SQL;Delivering+High-Quality+Software" alt="Typing SVG" />
 </div>
-
----
 
 # 🧠 About Me
 
