@@ -10,33 +10,6 @@
 
 ---
 
-# 👋 Hello World!
-
-```java
-public class MiguelPou {
-
-    String role = "QA Practice Lead";
-
-    String[] passions = {
-        "Automation",
-        "Cybersecurity",
-        "Software Architecture",
-        "Artificial Intelligence",
-        "DevOps",
-        "Android",
-        "Quality Engineering"
-    };
-
-    boolean coffee = true;
-
-    String lifeGoal =
-        "Build world-class software that people trust.";
-
-}
-```
-
----
-
 # 🧠 About Me
 
 🧪 QA Practice Lead with 14+ years of experience delivering enterprise software.
