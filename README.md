@@ -11,6 +11,17 @@
 
 ---
 
+<br clear="both">
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/elpou17/elpou17/snake-output/snake.svg"
+    alt="GitHub contribution snake animation"
+  />
+</div>
+
+---
+
 ## 🔗 About Me
 
 > **QA & Cybersecurity Analyst | Software Tester | ISTQB® | Teacher | Cloud | VirtualBox | Blue Team**
@@ -107,19 +118,6 @@
     />
   </a>
 
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<br clear="both">
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/elpou17/elpou17/snake-output/snake.svg"
-    alt="GitHub contribution snake animation"
-  />
 </div>
 
 ---
