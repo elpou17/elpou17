@@ -35,6 +35,7 @@
 - ☁️ Exploring cloud infrastructure, virtualization and secure environments.
 - 🧠 Sharing knowledge through teaching, mentoring and technical leadership.
 - 🚀 Focused on delivering software with quality, security and measurable business value.
+- 🤖 Building software with the help of AI and testing it
 
 ---
 
